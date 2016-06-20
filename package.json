@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-react-version",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Thorgate <info@thorgate.eu>",
   "description": "Babel plugin to build multi-version react components",
   "scripts": {
