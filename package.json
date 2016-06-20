@@ -10,5 +10,6 @@
     "type": "git",
     "url": "git@github.com:thorgate/babel-plugin-react-version.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {}
 }
